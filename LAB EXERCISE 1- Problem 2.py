@@ -48,6 +48,7 @@ for i in tqdm(range(10)):
     time.sleep(0.5)
 print(Fore.CYAN + "Done!\n\n" + Style.RESET_ALL)
 
+#Print the decrypted text
 print(Style.DIM + Fore.LIGHTGREEN_EX + u"\u2500" * 50)
 print(Style.RESET_ALL + "Your Decrypted Text is:", decrypted_data )
 print(Style.DIM + Fore.LIGHTGREEN_EX + u"\u2500" * 50)
