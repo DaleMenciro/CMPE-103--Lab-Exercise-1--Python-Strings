@@ -12,8 +12,6 @@ Laboratory Exercise 1 is composed of 2 problems: Problem 2- Decryption and Probl
 'a' = *, 'e' = & , 'i' = # , 'o' = + 'u' = !
 
 
-## Problem 2: Decryption
-
 ## Problem 3: The Vigenère Cipher
 ### Parameter
 
